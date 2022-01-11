@@ -1,9 +1,14 @@
-table,
-img {
-    max-width: 80%;
-}
 
 .clearance {
     border: green 2px solid;
     background-color: lightgreen;
+}
+
+td{
+    vertical-align: middle;
+    padding: 0;
+}
+
+input{
+    max-width: 30px;
 }
